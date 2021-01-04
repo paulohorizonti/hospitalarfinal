@@ -1,0 +1,38 @@
+/*Padrao vermelho*/
+body{
+    background-color: #f37520;
+}
+header{
+    margin: 2vh auto;
+}
+header, nav, main{
+  background-color: #fff;
+  min-height: 10vh;
+  
+}
+
+nav, main{
+    min-height: 82vh;
+}
+
+/*Acima de 576 ele vai ser azul*/
+@media (min-width: 576px) {
+    
+}
+ 
+
+@media (min-width: 768px) { 
+    
+}
+
+@media (min-width: 992px) { 
+    
+ }
+
+@media (min-width: 1200px) { 
+
+    
+}
+
+   
+ 

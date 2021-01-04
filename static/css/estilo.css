@@ -1,0 +1,69 @@
+.jumbotron{
+    background-image: url('../static/img/hospitalarazul.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.icones a{
+    display:block;
+    width: 36px;
+    height: 36px;;
+}
+
+.icones li{
+    display: inline-block;
+    margin-left: 0.3rem;
+}
+
+.icones a[href='https://github.com/']{
+    background-image: url('/img/github_icon-icons.com_60477.png');
+    background-size: 36px 36px;
+
+}
+
+.icones a[href='https://www.google.com.br/']{
+    background-image: url('/img/new_google_plus_socialnetwork_20038.png');
+    background-size: 36px 36px;
+
+}
+.icones a[href='https://br.linkedin.com/']{
+    background-image: url('/img/sociallinkedin_member_2751.png');
+    background-size: 36px 36px;
+
+}
+.icones a[href='https://www.facebook.com/']{
+    background-image: url('/img/social_facebook_box_blue_256_30649.png');
+    background-size: 36px 36px;
+
+}
+/*Mudando o nav-link 
+.nav-link{
+    padding-top: 5rem ;
+    padding-left:  ;
+    padding-right: ;
+    padding-bottom: ;
+}*/
+
+.navbar-light .navbar-nav .nav-link {
+    color: #007bff;
+}
+
+.pr-meu{
+    position: relative;
+    margin:  25%;
+    
+}
+
+.mestre{
+    width: 76px;
+    height: 76px;
+}
+.especialidades{
+    background-color: rgba(45, 79, 102, 0.137)
+}
+
+.card-header{
+    background-image: url('/static/img/hospaz.jpg');
+    background-position: center;
+    background-size: cover;
+}
